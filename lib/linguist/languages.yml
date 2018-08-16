@@ -2750,6 +2750,7 @@ Mathematica:
   - ".nb"
   - ".nbp"
   - ".wl"
+  - ".wls"
   - ".wlt"
   aliases:
   - mma
